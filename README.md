@@ -1,3 +1,2 @@
 - This is the first website I created. It's Based on Japan.
 - I tried to utilize the use of div,nav and tried to add hovering effect on the texts
-- Test commit by LazyComder
